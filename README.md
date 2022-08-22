@@ -34,10 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I didn't have much challenges while building the application, but I did struggle a little with creating the message "button clicked" because I was unsure on how to get the "msg." I realized after 5 mintues that I just needed to add quotations to get it. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Rawan Omari]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
